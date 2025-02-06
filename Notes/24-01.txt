@@ -1,0 +1,24 @@
+div - to divide the web page into sections/ to apply css/ to efficiently do changes
+
+ctrl shift p - type wrap then type div
+
+id is are supposed to be unique in a web page/ basically used for javascript
+
+class can be used multiple times or in multiple pages/ basically used for CSS
+
+Containers
+
+inline elements - which takes only required width, provides space for other elements too., eg: anchor <a>
+
+block elements - which take full width eg: paragraph <p>
+
+span tag is just like div but inline element
+
+hr tag gives horizontal line
+
+
+forms: in php action is used, but in react it is not used
+	label tag and input tag(accept attribute for file choosing)/ in input learn about type="tel"
+	Radiobutton for selecting one 
+	checkbox for selecting more than one
+	drop down = select tag with under option tag

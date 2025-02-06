@@ -1,0 +1,17 @@
+flex bases - width of the individual element
+flex shrink
+align-self - alignment won single element
+
+align-container: 
+
+grid
+
+
+GIT/GITHUB:- 
+
+1) git init
+2) git add .
+3) git commit -m "sdskkfdjkfjdjf"
+4) git remote add origin <link>
+5) git push origin master
+2) centralized control systems and distributed control systems-
